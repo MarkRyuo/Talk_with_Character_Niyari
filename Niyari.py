@@ -3,7 +3,7 @@
 # Create Object about Character Niyari 
 character_Discription = {
     "_name" : "Niyari",
-    "codename": "Darklight Niyari"
+    "codename": "Twilight Niyari"
 }
 
 
