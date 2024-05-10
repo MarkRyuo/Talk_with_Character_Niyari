@@ -4,3 +4,4 @@
 Background 
 
 Nicole is a Main Female Heroine in a Novel, Beyond to the Infinite 
+
