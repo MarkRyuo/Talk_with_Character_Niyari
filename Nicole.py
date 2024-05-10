@@ -1,6 +1,8 @@
 # Character Nicole 
 
-
+character_Discription = {
+    
+}
 
 
 
