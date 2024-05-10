@@ -1,7 +1,7 @@
 # Character Niyari
 
 # Create Object about Character Niyari 
-character_Discription = {
+character_Discription_Niyari = {
     "_name" : "Niyari",
     "codename": "Twilight Niyari",
     "age" : 20,
