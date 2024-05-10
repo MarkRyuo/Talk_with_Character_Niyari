@@ -17,12 +17,12 @@ class Person: # Parent
         self.codename = codename
         self.age = age 
 
-class Character(Person) :
+class Character_niyari(Person) :
 
     def __init__(self, _name, codename, age, place):
         super().__init__(_name, codename, age)
         self.place = place
     
     def speech_1(self) :
-        print(f"Hi i'm {self._name}, I can talk ")
+        print(f"Hi i'm {self._name} Nice to meet you ")
 
