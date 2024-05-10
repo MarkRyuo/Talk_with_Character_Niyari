@@ -16,4 +16,8 @@ class Person: # Parent
         self.codename = codename
         self.age = age 
 
+class Character(Person) :
+
+    def __init__(self, _name, codename, age):
+        super().__init__(_name, codename, age)
 
