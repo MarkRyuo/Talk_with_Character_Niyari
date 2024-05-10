@@ -18,5 +18,5 @@ class Character_niyari(Person) :
         self.place = place
     
     def speech_1(self) :
-        print(f"")
+        print(f"Hi i'm {self.name}, I'm sorry I suspected you as a monster")
 
