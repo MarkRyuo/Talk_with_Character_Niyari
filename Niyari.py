@@ -1,3 +1,5 @@
+from Character_module import Person
+
 # Character Niyari
 
 # Create Object about Character Niyari 
