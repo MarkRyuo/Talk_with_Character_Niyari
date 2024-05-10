@@ -24,5 +24,5 @@ class Character_niyari(Person) :
         self.place = place
     
     def speech_1(self) :
-        print(f"Hi i'm {self._name} by  ")
+        print(f"")
 
