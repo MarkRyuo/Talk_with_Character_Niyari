@@ -9,14 +9,6 @@ character_Discription_Niyari = {
 }
 
 
-
-class Person: # Parent 
-
-    def __init__(self, _name, codename, age) :
-        self._name = _name 
-        self.codename = codename
-        self.age = age 
-
 class Character_niyari(Person) :
 
     def __init__(self, _name, codename, age, place):
