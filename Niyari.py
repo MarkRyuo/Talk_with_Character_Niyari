@@ -4,7 +4,8 @@
 character_Discription = {
     "_name" : "Niyari",
     "codename": "Twilight Niyari",
-    "age" : 20
+    "age" : 20,
+    "place" : "Shadow of the Orient Seas"
 }
 
 
@@ -23,5 +24,5 @@ class Character(Person) :
 
     
     def speech_1(self) :
-        print(f"Hi i'm {self._name} ")
+        print(f"Hi i'm {self._name}, From ")
 
