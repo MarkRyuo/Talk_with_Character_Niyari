@@ -21,3 +21,7 @@ class Character(Person) :
     def __init__(self, _name, codename, age):
         super().__init__(_name, codename, age)
 
+    
+    def speech_1(self) :
+        print("Hi i'm Niyari ")
+
