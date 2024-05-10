@@ -19,9 +19,9 @@ class Person: # Parent
 
 class Character(Person) :
 
-    def __init__(self, _name, codename, age):
+    def __init__(self, _name, codename, age, place):
         super().__init__(_name, codename, age)
-
+        self.place = place
     
     def speech_1(self) :
         print(f"Hi i'm {self._name}, From ")
