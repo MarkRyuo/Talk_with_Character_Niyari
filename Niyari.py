@@ -1,7 +1,9 @@
 # Character Niyari
 
+# Create Object about Character Niyari 
 character_Discription = {
-    "_name" : "Niyari"
+    "_name" : "Niyari",
+    "codename": 
 }
 
 
