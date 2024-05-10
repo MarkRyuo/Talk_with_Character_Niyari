@@ -1,7 +1,7 @@
-# Character Nicole 
+# Character Niyari
 
 character_Discription = {
-    
+    "_name" : "Niyari"
 }
 
 
