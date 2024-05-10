@@ -1,6 +1,9 @@
 # Character Nicole 
 
 
+
+
+
 class Person:
 
-    def __init__(self) :
+    def __init__(self, _name) :
