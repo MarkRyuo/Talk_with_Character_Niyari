@@ -9,7 +9,7 @@ character_Discription = {
 
 
 
-class Person:
+class Person: # Parent 
 
     def __init__(self, _name, codename, age) :
         self._name = _name 
