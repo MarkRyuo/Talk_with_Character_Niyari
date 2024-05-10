@@ -19,4 +19,7 @@ class Character_niyari(Person) :
     
     def speech_1(self) :
         print(f"Hi i'm {self.name}, I'm sorry I suspected you as a monster")
+    
+    def speech_2(self) :
+        print("")
 
