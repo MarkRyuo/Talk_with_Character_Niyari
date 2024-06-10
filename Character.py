@@ -18,3 +18,6 @@ class Character :
         self.Codename = Codename 
         self.Age = Age 
         self.Location = Location
+    
+    def speak1(self) :
+        
