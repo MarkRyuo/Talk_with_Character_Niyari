@@ -9,4 +9,12 @@ def log() :
 
     #* ENTER your name 
     your_name = input("Enter your name: ")
-    yout_age = input("Enter your age: ")
+    your_age = input("Enter your age: ")
+
+    def Age_() :
+
+        if your_age.isdigit :
+            if your_age <= 10 :
+                print("Age Restricted")
+        else : 
+            print()
