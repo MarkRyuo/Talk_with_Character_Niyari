@@ -20,4 +20,4 @@ class Character :
         self.Location = Location
     
     def speak1(self) :
-        
+        print("Hello")
