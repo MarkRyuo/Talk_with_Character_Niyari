@@ -17,5 +17,11 @@ def log() :
             if your_age <= 10 : # * if your age is less than or equal to 10, age is not allowed
                 print("Age is not allowed")
                 exit()
+            else :
+                print()
         else : 
             print(f"{your_age} is not a number") # * If your age is string 
+    
+    age = Age_()
+    print(age)
+ 
