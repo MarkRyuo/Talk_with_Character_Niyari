@@ -7,4 +7,5 @@
 
 def log() :
 
-    username = input("Enter your username: ")
+    #* ENTER your name 
+    your_name = input("Enter your name: ")
