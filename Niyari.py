@@ -7,7 +7,7 @@ character_Discription_Niyari = {
     "_name" : "Niyari",
     "codename": "Twilight Niyari",
     "age" : 20,
-    "place" : "Shadow of the Orient Seas"
+    "Location" : "Shadow of the Orient Seas"
 }
 
 
