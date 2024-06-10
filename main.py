@@ -18,4 +18,4 @@ def log() :
                 print("Age is not allow")
                 exit()
         else : 
-            print("Enter") # * If your age is string 
+            print(f"{your_age} is not a number") # * If your age is string 
