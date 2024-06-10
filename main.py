@@ -16,5 +16,6 @@ def log() :
         if your_age.isdigit :
             if your_age <= 10 :
                 print("Age is not allow")
+                exit()
         else : 
             print()
