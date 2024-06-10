@@ -2,5 +2,6 @@
 
 Character_Description = {
     "Name" : "Niyari",
-    "Codename" : "Light Princess" 
+    "Codename" : "Light Princess",
+     
 }
