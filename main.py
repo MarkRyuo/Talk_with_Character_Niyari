@@ -24,4 +24,9 @@ def log() :
     
     age = Age_()
     print(age)
+
+
+def main() :
+
+    log()
  
