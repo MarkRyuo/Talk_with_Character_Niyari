@@ -34,7 +34,6 @@ def log() :
 def main() :
 
     log()
- 
 
 
 
