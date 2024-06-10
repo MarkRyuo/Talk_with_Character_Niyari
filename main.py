@@ -28,7 +28,6 @@ def log() :
                 print(f"{your_age} is not a number") # * If your age is string
 
         return your_age
-         
     
     Age_()
 
