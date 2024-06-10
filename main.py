@@ -22,7 +22,6 @@ def log() :
                     print("Age is not allowed")
                     break
                 else :
-                    print()
                     break
             else : 
                 print(f"{your_age} is not a number") # * If your age is string
