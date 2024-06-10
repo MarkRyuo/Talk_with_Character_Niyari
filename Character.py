@@ -17,4 +17,4 @@ class Character :
         self.Name = Name
         self.Codename = Codename 
         self.Age = Age 
-        
+        self.Location = Location
