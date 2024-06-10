@@ -9,3 +9,9 @@ Character_Description = {
     "Age" : 19,
     "Location" : "Oriental Dart " 
 }
+
+
+class Character :
+
+    def __init__(self,Name, Codename, Age, Location) :
+        self.Name = Name
