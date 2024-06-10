@@ -15,7 +15,7 @@ class Character_niyari(Person) :
 
     def __init__(self, _name, codename, age, location):
         super().__init__(_name, codename, age)
-        self.place = place
+        self.location = location
     
     def speech_1(self) :
         print(f"Hi i'm {self.name}, I'm sorry I suspected you as a monster")
