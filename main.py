@@ -1,7 +1,6 @@
 # Import 
 from Character import Character_
 
-CHAR = Character.Character_
 
 # Todo Create a Log
 
