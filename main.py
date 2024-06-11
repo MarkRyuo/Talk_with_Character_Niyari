@@ -3,8 +3,6 @@
 
 # Todo Create a Log
 
-# ! Fix This 
-
 def log() :
 
     #* ENTER your name 
