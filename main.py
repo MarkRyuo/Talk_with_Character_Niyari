@@ -10,7 +10,7 @@ def log() :
 
     def Age_() : # * Define a function to age verification 
 
-        attempt = 2 # * Declare a variable attempt  
+        attempt = 2 # * Declare a variable for attempt  
 
         while True : # * While loop 
 
