@@ -21,8 +21,8 @@ def log() :
                     print("Age is not allowed")
                     break
                 else :
-                    attempt -= 1
-                    if attempt > 0 :
+                    attempt -= 1 # * Attempt Decreament by 1 
+                    if attempt > 0 :  
                         print("Try again")
                     else :
                         print("Locked")
