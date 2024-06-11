@@ -9,7 +9,6 @@ def log() :
 
     #* ENTER your name 
     your_name = input("Enter your name: ")
-    your_age = input("Enter your age: ")
 
     def Age_() :
 
