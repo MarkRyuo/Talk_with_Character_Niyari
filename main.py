@@ -32,7 +32,6 @@ def log() :
                 
 
         return your_age
-
     Age_()
     return your_name
 
