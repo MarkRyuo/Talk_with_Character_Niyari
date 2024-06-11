@@ -3,6 +3,7 @@ from Character import Character_
 
 
 # Todo Create a Log
+# Todo Ilagay ang class dito 
 
 def log() :
 
@@ -22,7 +23,7 @@ def log() :
                     print("Age is not allowed")
                     break
                 else : # * Break if greater than 10
-                    .speak1 
+                    Character_.speak1 
                     break
             else : 
                 attempt -= 1 # * Attempt Decreament by 1 
