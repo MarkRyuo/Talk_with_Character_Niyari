@@ -1,4 +1,4 @@
-
+# Import
 
 
 # Todo Create a Dict about character Niyari 
@@ -20,4 +20,4 @@ class Character :
         self.Location = Location
     
     def speak1(self) :
-        print("Hello")
+        print("Hi user: ")
