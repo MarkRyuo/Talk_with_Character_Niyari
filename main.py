@@ -23,7 +23,7 @@ def log() :
                 else :
                    break
             else : 
-                 attempt -= 1 # * Attempt Decreament by 1 
+                attempt -= 1 # * Attempt Decreament by 1 
                 if attempt > 0 :  # * If attempt is greater than to 0 
                     print("Try again")
                 else :
