@@ -28,4 +28,4 @@ class Character_ :
 
 
 char = Character_(your_name)
-char.speak1
+char.speak1()
