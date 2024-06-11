@@ -10,7 +10,7 @@ def log() :
 
     def Age_() : # * Define a function to age verification 
 
-        while True :
+        while True : # * While loop 
 
             your_age = input("Enter your age: ")
 
