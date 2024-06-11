@@ -8,7 +8,7 @@ def log() :
     #* ENTER your name 
     your_name = input("Enter your name: ")
 
-    def Age_() :
+    def Age_() : # * Define a function to age verification 
 
         while True :
 
