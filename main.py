@@ -2,6 +2,7 @@
 import Character
 
 
+
 # Todo Create a Log
 
 def log() :
@@ -41,6 +42,8 @@ def log() :
 def main() :
 
     log()
+    char = Character(your_name)
+    char.speak1
 
 
 main()
