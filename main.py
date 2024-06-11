@@ -26,8 +26,8 @@ def log() :
                  attempt -= 1 # * Attempt Decreament by 1 
                 if attempt > 0 :  # * If attempt is greater than to 0 
                     print("Try again")
-                    else :
-                        print("Locked")
+                else :
+                    print("Locked")
                         break
                 print(f"{your_age} is not a number") # * If your age is string
 
