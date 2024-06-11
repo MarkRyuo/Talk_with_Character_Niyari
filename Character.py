@@ -23,7 +23,7 @@ class Character :
         self.Location = Location
     
     def speak1(self) :
-        print(f"Hi user: {your_name}")
+        print(f"Hi user: {self,Name}")
 
 
 
