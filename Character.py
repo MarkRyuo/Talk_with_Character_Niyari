@@ -24,3 +24,8 @@ class Character :
     
     def speak1(self) :
         print(f"Hi user: {your_name}")
+
+
+
+char = Character(your_name)
+char.speak1
