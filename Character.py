@@ -1,4 +1,7 @@
 # Import
+import main 
+
+your_name = main.log()
 
 
 # Todo Create a Dict about character Niyari 
