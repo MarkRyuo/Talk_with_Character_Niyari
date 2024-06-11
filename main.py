@@ -1,7 +1,7 @@
 # Import 
 import Character
 
-
+CHAR = Character
 
 # Todo Create a Log
 

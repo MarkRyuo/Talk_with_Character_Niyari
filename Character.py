@@ -14,7 +14,7 @@ Character_Description = {
 }
 
 
-class Character :
+class Character_ :
 
     def __init__(self,Name, Codename, Age, Location) :
         self.Name = Name
@@ -28,3 +28,4 @@ class Character :
 
 
 char = Character(your_name)
+char.speak1
