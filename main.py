@@ -10,6 +10,8 @@ def log() :
 
     def Age_() : # * Define a function to age verification 
 
+        attempt = 2 
+
         while True : # * While loop 
 
             your_age = input("Enter your age: ")
@@ -19,7 +21,12 @@ def log() :
                     print("Age is not allowed")
                     break
                 else :
-                    break
+                    attempt -= 1
+                    if attempt > 0 :
+                        print("Try again")
+                    else :
+                        print("Locked")
+                        break
             else : 
                 print(f"{your_age} is not a number") # * If your age is string
 
