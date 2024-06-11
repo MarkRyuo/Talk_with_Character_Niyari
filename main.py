@@ -1,4 +1,5 @@
 # Import 
+import Character
 
 
 # Todo Create a Log
