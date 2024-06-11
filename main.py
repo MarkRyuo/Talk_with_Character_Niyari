@@ -1,5 +1,5 @@
 # Import 
-import Character
+from Character import Character_
 
 CHAR = Character.Character_
 
