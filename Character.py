@@ -27,5 +27,5 @@ class Character_ :
 
 
 
-char = Character(your_name)
+char = Character_(your_name)
 char.speak1
