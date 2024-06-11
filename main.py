@@ -20,14 +20,14 @@ def log() :
                 if int(your_age) <= 10 : # * if your age is less than or equal to 10, age is not allowed
                     print("Age is not allowed")
                     break
-                else :
+                else : # * Break if greater than 10 
                    break
             else : 
                 attempt -= 1 # * Attempt Decreament by 1 
                 if attempt > 0 :  # * If attempt is greater than to 0 
                     print(f"{your_age} is not a number") # * If your age is string
                 else :
-                    print("Locked you have 2 attempt already")
+                    print("Locked you have 2 attempt already🔒")
                     break
                 
 
