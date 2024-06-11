@@ -43,7 +43,6 @@ def log() :
 def main() :
 
     log()
-  
 
 
 main()
