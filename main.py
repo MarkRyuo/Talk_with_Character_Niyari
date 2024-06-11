@@ -22,7 +22,8 @@ def log() :
                 if int(your_age) <= 10 : # * if your age is less than or equal to 10, age is not allowed
                     print("Age is not allowed")
                     break
-                else : # * Break if greater than 10 
+                else : # * Break if greater than 10
+                    CHAR.speak1 
                     break
             else : 
                 attempt -= 1 # * Attempt Decreament by 1 
