@@ -17,7 +17,7 @@ class Character_ :
         self.Location = Location
     
     def speak1(self) :
-        print(f"Hi user: {self.Name}, I'm {Character_Description["Name"]}")
+        print(f"Hi user: {self.Name}, I'm {Niyari}")
 
 
 
