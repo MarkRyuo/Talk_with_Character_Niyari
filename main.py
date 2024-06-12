@@ -21,8 +21,6 @@ class Character_ :
 
 def log() :
 
-    Char = Character_(LOG)
-
     #* ENTER your name 
     your_name = input("Enter your name: ")
 
@@ -52,10 +50,10 @@ def log() :
     Age_()
     return your_name
 
-LOG = log()
 
 def main() :
 
+    LOG = log()
 
 
 main()
