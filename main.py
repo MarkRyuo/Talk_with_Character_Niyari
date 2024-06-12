@@ -17,7 +17,6 @@ class Character_ :
 
 
 
-
 def log() :
 
     #* ENTER your name 
