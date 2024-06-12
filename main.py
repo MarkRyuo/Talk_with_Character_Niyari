@@ -54,6 +54,7 @@ def log() :
 def main() :
 
     LOG = log()
+    Char = Character_(LOG)
 
 
 main()
