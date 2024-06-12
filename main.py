@@ -16,6 +16,8 @@ class Character_ :
     def speak1(self) :
         print(f"Hi user: {self.Name}")
 
+
+
 def log() :
 
     #* ENTER your name 
@@ -52,7 +54,8 @@ def log() :
 
 def main() :
 
-    log()
+   LOG = log()
+    Char = Character_(LOG)
 
 
 main()
