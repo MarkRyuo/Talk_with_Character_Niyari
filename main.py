@@ -1,10 +1,20 @@
 # Import 
-from Character import Character_
 
 
 # Todo Create a Log
 # Todo Ilagay ang class dito 
 # ! Fix this 
+
+class Character_ :
+
+    def __init__(self,Name, Codename, Age, Location) :
+        self.Name = Name
+        self.Codename = Codename 
+        self.Age = Age 
+        self.Location = Location
+    
+    def speak1(self) :
+        print(f"Hi user: {self.Name}")
 
 def log() :
 
