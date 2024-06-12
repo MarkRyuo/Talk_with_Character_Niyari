@@ -1,6 +1,7 @@
 # Import
 
 # * Character Description 
+
 # Todo Create a Dict about character Niyari 
 
 Character_Description = { 
