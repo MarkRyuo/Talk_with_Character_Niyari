@@ -55,6 +55,6 @@ def main() :
 
     LOG = log()
     Char = Character_(LOG)
-
+    Char.speak1
 
 main()
