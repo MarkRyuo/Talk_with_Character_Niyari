@@ -17,10 +17,11 @@ class Character_ :
         print(f"Hi user: {self.Name}")
 
 
-Char = Character_(LOG)
 
 
 def log() :
+
+    Char = Character_(LOG)
 
     #* ENTER your name 
     your_name = input("Enter your name: ")
