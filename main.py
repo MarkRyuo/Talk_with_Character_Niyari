@@ -13,7 +13,7 @@ class Character_ :
         self.Location = Location
     
     def speak1(self) :
-        print(f"Hi user: {self.Name}")
+        print(f"Hi user: {self.Name}, I'm Niyari")
 
 
 
@@ -51,7 +51,7 @@ def log() :
 
 def main() :
 
-    your_name, your_age = log()
+    your_name, your_age = log() 
     Char = Character_(your_name, None, None, None)
     Char.speak1()
 
