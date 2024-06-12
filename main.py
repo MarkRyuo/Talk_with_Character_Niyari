@@ -4,7 +4,7 @@ from Character import Character_Description
 # Todo Create a Log
 # Todo Ilagay ang class dito 
 
-
+Character_Niyari = Character_Description["name"]
 
 class Character_ :
 
