@@ -43,10 +43,9 @@ def log() :
                     print("Locked you have 2 attempt already🔒")
                     break
                 
-
-        return your_age
-    Age_()
-    return your_name
+        return None 
+    your_age = Age_()
+    return your_name, your_age
 
 
 def main() :
