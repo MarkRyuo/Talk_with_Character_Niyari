@@ -6,6 +6,8 @@ from Character import Character_Description
 
 # Character_Niyari = Character_Description["name"]
 
+Niyari = Character_Description["Name"]
+
 class Character_ :
 
     def __init__(self,Name, Codename, Age, Location) :
@@ -15,7 +17,7 @@ class Character_ :
         self.Location = Location
     
     def speak1(self) :
-        print(f"Hi user: {self.Name}, I'm {Character_Description["Name"]})
+        print(f"Hi user: {self.Name}, I'm {Niyari} )
 
 
 
