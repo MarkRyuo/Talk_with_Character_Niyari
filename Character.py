@@ -2,7 +2,7 @@
 
 # * Character Description 
 
-# Todo Create a Dict about characteristics Niyari 
+# Todo Create a Dict about characteristics Niyari
 
 Character_Description = { 
     "Name" : "Niyari",
