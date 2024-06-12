@@ -1,5 +1,5 @@
 # Import 
-
+from Character import Character_Description
 
 # Todo Create a Log
 # Todo Ilagay ang class dito 
@@ -13,7 +13,7 @@ class Character_ :
         self.Location = Location
     
     def speak1(self) :
-        print(f"Hi user: {self.Name}, I'm Niyari")
+        print(f"Hi user: {self.Name}, I'm ")
 
 
 
