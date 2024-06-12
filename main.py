@@ -4,6 +4,8 @@ from Character import Character_Description
 # Todo Create a Log
 # Todo Ilagay ang class dito 
 
+
+
 class Character_ :
 
     def __init__(self,Name, Codename, Age, Location) :
