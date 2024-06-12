@@ -53,6 +53,6 @@ def main() :
 
     LOG = log()
     Char = Character_(LOG, None, None, None)
-    Char.speak1
+    Char.speak1()
 
 main()
