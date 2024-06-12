@@ -24,7 +24,6 @@ def log() :
     def Age_() : # * Define a function to age verification 
 
         attempt = 2 # * Declare a variable for attempt  
-
         while True : # * While loop 
 
             your_age = input("Enter your age: ")
@@ -37,7 +36,7 @@ def log() :
                     Character_.speak1 
                     break
             else : 
-                attempt -= 1 # * Attempt Decreament by 1 
+                attempt -= 1 # * Attempt Decrement by 1 
                 if attempt > 0 :  # * If attempt is greater than to 0 
                     print(f"{your_age} is not a number") # * If your age is string
                 else :
