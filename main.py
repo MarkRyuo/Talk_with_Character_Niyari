@@ -3,7 +3,7 @@
 
 # Todo Create a Log
 # Todo Ilagay ang class dito 
-# ! Fix this 
+
 
 class Character_ :
 
