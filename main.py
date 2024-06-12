@@ -17,6 +17,8 @@ class Character_ :
         print(f"Hi user: {self.Name}")
 
 
+Char = Character_(LOG)
+
 
 def log() :
 
@@ -50,12 +52,11 @@ def log() :
     Age_()
     return your_name
 
-
+LOG = log()
 
 def main() :
 
-   LOG = log()
-    Char = Character_(LOG)
+    
 
 
 main()
