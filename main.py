@@ -17,7 +17,7 @@ class Character_ :
         self.Location = Location
     
     def speak1(self) :
-        print(f"Hi user: {self.Name}, I'm {CHAR_NAME} nice too meet you")
+        print(f"Hi user: {self.Name}, I'm {CHAR_NAME} nice too meet you") # ! Change this to overwhelm aura of Niyari 
 
 
 
