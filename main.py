@@ -6,7 +6,7 @@ from Character import Character_Description
 
 # Character_Niyari = Character_Description["name"]
 
-# Niyari = Character_Description["Name"]
+Niyari = Character_Description["Name"]
 
 class Character_ :
 
