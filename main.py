@@ -52,7 +52,7 @@ def log() :
 def main() :
 
     your_name, your_age = log()
-    Char = Character_(LOG, None, None, None)
+    Char = Character_(your_name, None, None, None)
     Char.speak1()
 
 main()
