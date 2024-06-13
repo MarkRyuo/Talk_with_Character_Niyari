@@ -4,8 +4,6 @@ from Character import Character_Description
 # Todo Create a Log
 # Todo Ilagay ang class dito 
 
-# Character_Niyari = Character_Description["name"]
-
 CHAR_NAME = Character_Description.get("Name")
 
 class Character_ :
