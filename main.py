@@ -38,7 +38,6 @@ def log() :
         while True : # * While loop 
 
             your_age = input("Enter your age: ")
-
             if your_age.isdigit() :
                 if int(your_age) <= 10 : # * if your age is less than or equal to 10, age is not allowed
                     print("Age is not allowed")
