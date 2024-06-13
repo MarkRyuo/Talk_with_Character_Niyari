@@ -16,6 +16,9 @@ class Character_ :
         self.Age = Age 
         self.Location = Location
     
+    def Qualify(self) :
+        
+    
     def speak1(self) :
         print(f"Hi user: {self.Name}, I'm {CHAR_NAME} nice too meet you") # ! Change this to overwhelm aura of Niyari 
 
