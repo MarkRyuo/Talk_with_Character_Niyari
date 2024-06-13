@@ -42,8 +42,6 @@ def log() :
                 if int(your_age) <= 10 : # * if your age is less than or equal to 10, age is not allowed
                     print("Age is not allowed")
                     exit()
-                    break
-                    
                 else : # * Break if greater than 10 
                     break
             else : 
