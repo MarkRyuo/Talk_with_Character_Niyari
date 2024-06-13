@@ -1,7 +1,7 @@
 # Import 
 from Character import Character_Description
 
-# Todo Create a Log
+# Todo Create a Log for Entering details 
 # Todo Ilagay ang class dito 
 
 CHAR_NAME = Character_Description.get("Name")
