@@ -63,7 +63,7 @@ def main() :
 
     your_name, your_age = log() 
     Char = Character_(your_name, None,your_age, None)
-    Char.speak1()
     Char.Qualify()
+    Char.speak1()
 
 main()
