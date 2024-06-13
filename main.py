@@ -50,7 +50,7 @@ def log() :
                     print(f"{your_age} is not a number") # * If your age is string
                 else :
                     print("Locked you have 2 attempt already🔒")
-                    break
+                    exit()
                 
         return your_age 
     
