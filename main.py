@@ -21,7 +21,8 @@ class Character_ :
             f"Welcome to Talk With {CHAR_NAME}"
             )
         print(
-            f"Age Detected: {self.Age}"
+            f"Age Detected: {self.Age} \n 
+            Name Detected: {self.Name}"
         )
     
     def speak1(self) :
