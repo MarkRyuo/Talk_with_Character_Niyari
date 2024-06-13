@@ -55,7 +55,7 @@ def log() :
                     print("Locked you have 2 attempt already🔒")
                     break
                 
-        return None 
+        return your_age 
     
     your_age = Age_()
     return your_name, your_age
@@ -64,7 +64,7 @@ def log() :
 def main() :
 
     your_name, your_age = log() 
-    Char = Character_(your_name, None, your_age, None)
+    Char = Character_(your_name, None,your_age, None)
     Char.speak1()
     Char.Qualify()
 
