@@ -20,6 +20,9 @@ class Character_ :
         print(
             f"Welcome to Talk With {CHAR_NAME}"
             )
+        print(
+            f"Age Detected: {self.Age}"
+        )
     
     def speak1(self) :
         print(f"Hi user: {self.Name}, I'm {CHAR_NAME} nice too meet you") # ! Change this to overwhelm aura of Niyari 
