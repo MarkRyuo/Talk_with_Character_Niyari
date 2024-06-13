@@ -22,7 +22,7 @@ class Character_ :
             )
         print(
             f" Age Detected: {self.Age} \n 
-            Name Detected: {self.Name} "
+               Name Detected: {self.Name} "
         )
     
     def speak1(self) :
