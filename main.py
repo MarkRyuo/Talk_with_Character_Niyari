@@ -29,7 +29,8 @@ class Character_ :
         if speak_1 :
             print(f"Thank you to answer {self.name}")
         else :
-            print() 
+            print()
+        return speak_1
 
 
 
