@@ -20,3 +20,6 @@ class Log :
         else: 
             print()
         return userName, userAge
+
+
+class main(Log)
