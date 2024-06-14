@@ -10,3 +10,6 @@ class Log :
     def Log_user(self) :
 
         userName = input("Input your name: ")
+
+        userAge = input("Input your age: ") 
+            
