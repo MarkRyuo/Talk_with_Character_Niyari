@@ -24,7 +24,12 @@ class Character_ :
     
     def speak1(self) :
         print(f"Welcome! i'm {CHAR_NAME} ")
-         
+        speak_1 = input("What is your name: ")
+
+        if speak_1 :
+            print(f"Thank you to answer {self.name}")
+        else :
+            print 
 
 
 
