@@ -13,4 +13,6 @@ class Log :
         userName = input("Input your name: ")
 
         userAge = input("Input your age: ") 
-            
+        
+        if int(userAge) <= 10 :
+            print("Your too young to talk in Niyari ")
