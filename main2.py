@@ -22,4 +22,7 @@ class Log :
         return userName, userAge
 
 
-class main(Log) 
+class main(Log) :
+    pass  
+
+# ! Fix this 
