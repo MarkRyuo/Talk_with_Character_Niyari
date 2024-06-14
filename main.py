@@ -27,7 +27,7 @@ class Character_ :
         speak_1 = input("What is your name: ")
 
         if speak_1 :
-            print(f"Thank you to answer {self.name}")
+            print(f"Thank you to answer {self.Name}")
         else :
             print()
 
