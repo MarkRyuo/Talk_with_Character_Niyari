@@ -9,6 +9,7 @@ class Log :
 
     def Log_user(self) :
 
+        #* Input Credentials 
         userName = input("Input your name: ")
 
         userAge = input("Input your age: ") 
