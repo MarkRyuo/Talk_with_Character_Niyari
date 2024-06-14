@@ -69,6 +69,6 @@ def main() :
     your_name, your_age = log() 
     Char = Character_(your_name, None,your_age, None) # * None for no value 
     Char.Qualify()
-    Char.speak1(your_name)
+    Char.speak1()
 
 main()
