@@ -23,7 +23,7 @@ class Character_ :
         )
     
     def speak1(self) :
-        print(f"Hi user: {self.Name}, I'm {CHAR_NAME} nice too meet you! ") # ! Change this to overwhelm aura of Niyari 
+        print(f"I'm {CHAR_NAME} nice too meet you! ") # ! Change this to overwhelm aura of Niyari 
 
 
 
