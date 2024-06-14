@@ -8,3 +8,5 @@ class Log :
         self.Age = Age 
 
     def Log_user(self) :
+
+        userName = input("Input your name: ")
