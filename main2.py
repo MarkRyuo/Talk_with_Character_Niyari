@@ -17,4 +17,4 @@ class Log :
         if int(userAge) <= 10 :
             print("Your too young to talk in Niyari")
         
-        return
+        return userName, userAge
